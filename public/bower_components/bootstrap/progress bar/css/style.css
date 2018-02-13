@@ -1,0 +1,11 @@
+.textbox {
+  height: 1000px;
+}
+
+.progress {
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  width: 0;
+}
